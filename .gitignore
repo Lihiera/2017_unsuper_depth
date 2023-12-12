@@ -1,3 +1,5 @@
 *.py[cod]
 __pycache__/
 checkpoints/
+
+ssh -p 57306 root@connect.westb.seetacloud.com
